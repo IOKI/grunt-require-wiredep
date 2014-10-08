@@ -36,6 +36,6 @@
     "grunt": "~0.4.0"
   },
   "dependencies": {
-    "require-wiredep": "latest"
+    "require-wiredep": "0.1.1"
   }
 }
