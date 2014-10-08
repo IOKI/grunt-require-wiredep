@@ -1,8 +1,5 @@
-> -
 # grunt-require-wiredep
-*Inject require configuration into your source code with Grunt.*
->
-> -
+>Inject require configuration into your source code with Grunt.*
 
 ## What is this?
 [Grunt](http://gruntjs.com) is great.
