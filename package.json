@@ -1,7 +1,7 @@
 {
   "name": "grunt-require-wiredep",
   "description": "Inject your require configuration right into your js files from Grunt.",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "homepage": "https://github.com/Krzysztof-Padol/grunt-require-wiredep",
   "author": {
     "name": "Krzysztof Padol",
@@ -36,6 +36,6 @@
     "grunt": "~0.4.0"
   },
   "dependencies": {
-    "require-wiredep": "0.1.2"
+    "require-wiredep": "0.1.3"
   }
 }
